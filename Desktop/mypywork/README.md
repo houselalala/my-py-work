@@ -1,0 +1,1 @@
+這是mina的偉大python程式。
